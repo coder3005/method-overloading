@@ -15,7 +15,7 @@ class A
     }
     void add(int x,double y)
     {
-        double c
+        double c;
         c=x+y;
         System.out.println(c);
     }
